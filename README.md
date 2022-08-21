@@ -1,22 +1,37 @@
+<h4> \0/ </h4>
 
 
-### \o/ Welcome \o/
+<h4> Contato: </h4>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/fernando-de-alvarenga-medeiros-037306207/)
 
 
-<br> 
 
-<br> [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-de-alvarenga-medeiros-037306207/)
+<div style="display: inline_block" align="left">
+    <h4> Ferramentas que utilizo: </h4>
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=black">
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/Photoshop-white?style=for-the-badge&logo=adobe&logoColor=black">    
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/Pycharm-white?style=for-the-badge&logo=pycharm&logoColor=black">
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/VsCode-white?style=for-the-badge&logo=visualstudiocode&logoColor=black">
+</div>
 
-<br> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Medeiros&show_icons=true&theme=dark)
+
+<div style="display: inline_block" align="left">
+    <h4> Tecnologias do meu dia a dia: </h4>
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black">
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black">    
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black">
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black">
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=black">
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=black">   
+</div>
+
+<div style="display: inline_block" align="left">
+    <h4> Outros: </h4>
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/Pygame-white?style=for-the-badge&logo=python&logoColor=black">
+    <img align="center" :alt="html5" src="https://img.shields.io/badge/Kivy-white?style=for-the-badge&logo=python&logoColor=black">
+</div>
 
 <br>
 
-<div style="display: inline_block"><br>
-    <img align="center" :alt="html5" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow">
-    <img align="center" :alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">    
-    <img align="center" :alt="html5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" :alt="html5" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" :alt="html5" src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white">
-    <img align="center" :alt="html5" src="https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=sql&logoColor=ehite">
-    <img align="center" :alt="html5" src="https://img.shields.io/badge/Kivy-000000?style=for-the-badge&logo=kivy&logoColor=white">
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Medeiros&show_icons=true&theme=dark)
