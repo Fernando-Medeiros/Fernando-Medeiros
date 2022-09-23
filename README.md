@@ -3,9 +3,8 @@
 
 <h4> Reach me on </h4>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/fernando-de-alvarenga-medeiros-037306207/)
-[![Youtube](https://img.shields.io/badge/Youtube-white?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/channel/UC4DtvxaUeEZHmqafh5mSOLg)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fernando-de-alvarenga-medeiros-037306207/)
+[![Youtube](https://img.shields.io/badge/Youtube-white?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC4DtvxaUeEZHmqafh5mSOLg)
 
 
 <div style="display: inline_block" align="left">
@@ -20,20 +19,35 @@
 
 <div style="display: inline_block" align="left">
     <h4> I mainly code using </h4>
-    <img align="center" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black">
+    <img align="center" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=yellow">
     <img align="center" src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black">    
-    <img align="center" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black">
-    <img align="center" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black">
-    <img align="center" src="https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=black">
-    <img align="center" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=black">   
+    <img align="center" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=orange">
+    <img align="center" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=blue">
+    <img align="center" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue">
+    <img align="center" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green">  
 </div>
 
+<br> <br>
+
 <div style="display: inline_block" align="left">
-    <h4> others </h4>
-    <img align="center" src="https://img.shields.io/badge/Pygame-white?style=for-the-badge&logo=python&logoColor=black">
-    <img align="center" src="https://img.shields.io/badge/Kivy-white?style=for-the-badge&logo=python&logoColor=black">
+    <h4> I'm currently studying </h4>
+    <img align="center" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue">
+    <img align="center" src="https://img.shields.io/badge/Mysql-white?style=for-the-badge&logo=mysql&logoColor=blue">  
+    <img align="center" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green">  
 </div>
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Medeiros&show_icons=true&theme=dark)
+<div align="left">
+    <h4> My current projects </h4>
+    <span> MMO with Flask -> </span>
+    <a href="https://app-redboarinn.herokuapp.com/"> Red Boar Inn </a>
+    <br>
+    <span> RPG Game - Python/Pygame -> </span>
+    <a href="https://www.youtube.com/watch?v=v-M-O1niVuk&list=PLvAbIt-38OIl8C7DkodVmCYaUqH3SJKRV/"> The hero's journey </a>
+</div>
+
+
+<br> <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fernando-Medeiros&bg_color=white&hide_title=true&text_color=black" />
