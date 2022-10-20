@@ -20,14 +20,23 @@
 <div style="display: inline_block" align="left">
     <h4> I mainly code using </h4>
     <img align="center" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=yellow">
+    <img align="center" src="https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=black">    
     <img align="center" src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black">    
-    <img align="center" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=orange">
-    <img align="center" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=blue">
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue">
     <img align="center" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green">  
 </div>
 
+
+<div style="display: inline_block" align="left">
+    <h4> Also includes: </h4>
+    <img align="center" src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=javascript&logoColor=yellow">
+    <img align="center" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=orange">
+    <img align="center" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=blue">
+</div>
+
+
 <br> <br>
+
 
 <div style="display: inline_block" align="left">
     <h4> I'm currently studying </h4>
