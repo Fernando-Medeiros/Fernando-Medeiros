@@ -50,10 +50,14 @@
 <div align="left">
     <h4> My current projects </h4>
     <span> MMO with Flask -> </span>
-    <a href="https://app-redboarinn.herokuapp.com/"> Red Boar Inn </a>
+    <a href="https://app-redboarinn.herokuapp.com/" target="blank"> Red Boar Inn </a>
     <br>
     <span> RPG Game - Python/Pygame -> </span>
-    <a href="https://www.youtube.com/watch?v=v-M-O1niVuk&list=PLvAbIt-38OIl8C7DkodVmCYaUqH3SJKRV/"> The hero's journey </a>
+    <a href="https://www.youtube.com/watch?v=v-M-O1niVuk&list=PLvAbIt-38OIl8C7DkodVmCYaUqH3SJKRV/" target="blank"> The hero's journey </a>
+    <br>
+    <br>
+    <span> Portfolio - Python/Django -> </span>
+    <a href="https://portfoliofam.herokuapp.com/" target="blank"> under construction... </a>
 </div>
 
 
