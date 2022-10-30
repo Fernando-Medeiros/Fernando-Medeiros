@@ -63,4 +63,7 @@
 
 <br> <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fernando-Medeiros&bg_color=white&hide_title=true&text_color=black" />
+<div>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Fernando-Medeiros&bg_color=white&hide_title=true&text_color=black" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Medeiros&layout=compact&langs_count=3000&hide_title=true&theme=white">
+</div>
