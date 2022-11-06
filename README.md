@@ -24,6 +24,7 @@
     <img align="center" src="https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=black">    
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue">
     <img align="center" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green">  
+    <img align="center" src="https://img.shields.io/badge/Tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColor=blue">  
 </div>
 
 
@@ -47,18 +48,25 @@
 
 <br>
 
-<div align="left">
-    <h4> My current projects </h4>
-    <span> MMO with Flask -> </span>
-    <a href="https://app-redboarinn.herokuapp.com/" target="blank"> Red Boar Inn </a>
-    <br>
-    <span> RPG Game - Python/Pygame -> </span>
-    <a href="https://www.youtube.com/watch?v=v-M-O1niVuk&list=PLvAbIt-38OIl8C7DkodVmCYaUqH3SJKRV/" target="blank"> The hero's journey </a>
-    <br>
-    <br>
-    <span> Portfolio - Python/Django -> </span>
-    <a href="https://portfoliofam.herokuapp.com/" target="blank"> Link... </a>
-</div>
+
+<h4> My current projects </h4>
+<ul>
+    <li>
+      <a href="https://app-redboarinn.herokuapp.com/" target="blank">
+          -> Red Boar Inn
+        </a>
+    </li>
+    <li>
+      <a href="https://www.youtube.com/watch?v=v-M-O1niVuk&list=PLvAbIt-38OIl8C7DkodVmCYaUqH3SJKRV/" target="blank">
+          -> The Hero's Journey
+        </a>
+    </li>    
+    <li>
+        <a href="https://portfoliofam.herokuapp.com/" target="blank">
+            -> Portfolio - Python/Django
+        </a>    
+    </li>
+</ul>
 
 
 <br> <br>
