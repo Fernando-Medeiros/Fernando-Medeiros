@@ -8,7 +8,6 @@
 #### My toolbox includes
 ![This is an image](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=black)
 ![This is an image](https://img.shields.io/badge/Photoshop-white?style=for-the-badge&logo=adobe&logoColor=black)
-![This is an image](https://img.shields.io/badge/Pycharm-white?style=for-the-badge&logo=pycharm&logoColor=black)
 ![This is an image](https://img.shields.io/badge/VsCode-white?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![This is an image](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black)
 
@@ -29,12 +28,6 @@
 ![This is an image](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=blue)
 
 
-#### I'm currently studying
-![This is an image](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue)
-![This is an image](https://img.shields.io/badge/Mysql-white?style=for-the-badge&logo=mysql&logoColor=blue)
-![This is an image](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green)
-
-
 #### My current projects
 
 - [Red Boar Inn](https://app-redboarinn.herokuapp.com/)
@@ -42,9 +35,4 @@
 - [Portfolio](https://portfoliofam.herokuapp.com/)
 - [Toolbox](https://my--toolbox.herokuapp.com/)
 - [Fast-Flask-API](https://github.com/Fernando-Medeiros/Fast-Flask-API)
-
-
-<div align="center">
-    
-![This is an image](https://github-readme-stats.vercel.app/api?username=Fernando-Medeiros&bg_color=white&hide_title=true&text_color=black)
-</div>
+- [Pleiades](https://github.com/Fernando-Medeiros/Pleiades)
