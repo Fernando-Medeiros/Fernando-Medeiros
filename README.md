@@ -34,10 +34,9 @@ Hi I'm backend developer and a 2d game enthusiast
 
 #### My current projects
 
-- [Red Boar Inn](https://app-redboarinn.herokuapp.com/)
-- [The Hero's Journey](https://github.com/Fernando-Medeiros/The-Hero-Journey)
-- [Portfolio](https://portfoliofam.herokuapp.com/)
-- [Toolbox](https://my--toolbox.herokuapp.com/)
-- [Fast-Flask-API](https://github.com/Fernando-Medeiros/Fast-Flask-API)
-  - [Fastapi-API-Deploy](https://fast-flask-api.herokuapp.com/docs)
-- [Pleiades](https://github.com/Fernando-Medeiros/Pleiades)
+|  **Websites**  |  **Games**  |  **API** 
+| ----- | :-----: | :-----:
+| [Portfolio](https://portfoliofam.herokuapp.com/) | [The Hero's Journey](https://github.com/Fernando-Medeiros/The-Hero-Journey) | [Fast-Flask-API](https://fast-flask-api.herokuapp.com/docs)
+| [Coffee-Break](https://coffee-break-network.herokuapp.com/) | [Pleiades](https://github.com/Fernando-Medeiros/Pleiades)
+| [Red Boar Inn](https://app-redboarinn.herokuapp.com/) |
+| [Toolbox](https://my--toolbox.herokuapp.com/) |
