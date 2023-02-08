@@ -1,5 +1,3 @@
-Hi I'm backend developer and a 2d game enthusiast
-
 #### Reach me on
 [![Linkedin](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fernando-de-alvarenga-medeiros-037306207/)
 [![Youtube](https://img.shields.io/badge/Youtube-white?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC4DtvxaUeEZHmqafh5mSOLg)
@@ -8,7 +6,6 @@ Hi I'm backend developer and a 2d game enthusiast
 
 #### My toolbox includes
 ![This is an image](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=purple)
-![This is an image](https://img.shields.io/badge/Photoshop-white?style=for-the-badge&logo=adobe&logoColor=black)
 ![This is an image](https://img.shields.io/badge/VsCode-white?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![This is an image](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red)
 ![This is an image](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=orange)
@@ -28,6 +25,7 @@ Hi I'm backend developer and a 2d game enthusiast
 
 #### Also includes:
 ![This is an image](https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=javascript&logoColor=yellow)
+![This is an image](https://img.shields.io/badge/NODEJS-white?style=for-the-badge&logo=node.js&logoColor=green)
 ![This is an image](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=orange)
 ![This is an image](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=blue)
 
