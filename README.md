@@ -9,6 +9,7 @@
 ![This is an image](https://img.shields.io/badge/VsCode-white?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![This is an image](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red)
 ![This is an image](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=orange)
+![This is an image](https://img.shields.io/badge/Insomnia-white?style=for-the-badge&logo=insomnia&logoColor=purple)
 ![This is an image](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
 
 
@@ -32,7 +33,7 @@
 
 #### My current projects
 
-|  **Websites**  |  **Games**  |  **API** 
+| 💻 **Websites**  | 🎮 **Games**  | 🗄️ **APIs** 
 | ----- | :-----: | :-----:
 | [Portfolio](https://portfoliofam.herokuapp.com/) | [The Hero's Journey](https://github.com/Fernando-Medeiros/The-Hero-Journey) | [Fast-Flask-API](https://fast-flask-api.herokuapp.com/docs)
 | [Coffee-Break](https://coffee-break-network.herokuapp.com/) | [Pleiades](https://github.com/Fernando-Medeiros/Pleiades)
