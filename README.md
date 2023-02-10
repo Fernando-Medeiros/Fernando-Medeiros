@@ -26,6 +26,7 @@
 
 #### Also includes:
 ![This is an image](https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=javascript&logoColor=yellow)
+![This is an image](https://img.shields.io/badge/TYPESCRIPT-white?style=for-the-badge&logo=typescript&logoColor=blue)
 ![This is an image](https://img.shields.io/badge/NODEJS-white?style=for-the-badge&logo=node.js&logoColor=green)
 ![This is an image](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=orange)
 ![This is an image](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=blue)
@@ -33,9 +34,9 @@
 
 #### My current projects
 
-| 💻 **Websites**  | 🎮 **Games**  | 🗄️ **APIs** 
+| 💻 **Websites**  |  🗄️ **APIs**  |  🎮 **Games**
 | ----- | :-----: | :-----:
-| [Portfolio](https://portfoliofam.herokuapp.com/) | [The Hero's Journey](https://github.com/Fernando-Medeiros/The-Hero-Journey) | [Fast-Flask-API](https://fast-flask-api.herokuapp.com/docs)
-| [Coffee-Break](https://coffee-break-network.herokuapp.com/) | [Pleiades](https://github.com/Fernando-Medeiros/Pleiades)
-| [Red Boar Inn](https://app-redboarinn.herokuapp.com/) |
-| [Toolbox](https://my--toolbox.herokuapp.com/) |
+| [Coffee-Break](https://coffee-break-network.herokuapp.com/) | [CoffeeBreak-Fast-API](https://fast-flask-api.herokuapp.com/docs) | [The Hero's Journey](https://github.com/Fernando-Medeiros/The-Hero-Journey)
+| [Red Boar Inn](https://app-redboarinn.herokuapp.com/) | [RBI-Node-API](https://github.com/Fernando-Medeiros/RBI-Node-API) | [Pleiades](https://github.com/Fernando-Medeiros/Pleiades)
+| [Toolbox](https://my--toolbox.herokuapp.com/)
+| [Portfolio](https://portfoliofam.herokuapp.com/)
