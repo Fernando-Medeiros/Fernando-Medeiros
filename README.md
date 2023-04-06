@@ -6,8 +6,8 @@
 
 #### My current projects
 
-| 💻 **Websites**  |  🗄️ **APIs**  |  🎮 **Games**
+| 💻 **Web**  |  🗄️ **APIs**  |  🎮 **Games**
 | ----- | :-----: | :-----:
 | [Portfolio](https://github.com/Fernando-Medeiros/portfolio-vue) | [Fast-Flask-API](https://github.com/Fernando-Medeiros/Fast-Flask-API) | [The Hero's Journey](https://github.com/Fernando-Medeiros/The-Hero-Journey)
-| [Red Boar Inn](https://app-redboarinn.herokuapp.com/) | [RBI-Auth-Node-API](https://github.com/Fernando-Medeiros/RBI-Auth-Node-API) | [Pleiades](https://github.com/Fernando-Medeiros/Pleiades)
+| [RBI-Game](https://github.com/Fernando-Medeiros/red-boar-inn-game) | [RBI-Auth-Node-API](https://github.com/Fernando-Medeiros/RBI-Auth-Node-API) | [Pleiades](https://github.com/Fernando-Medeiros/Pleiades)
 | [Toolbox](https://my--toolbox.herokuapp.com/) | [RBI-Server-Node-API](https://github.com/Fernando-Medeiros/RBI-Server-Node-API)
