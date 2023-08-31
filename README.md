@@ -9,7 +9,8 @@
 | [Dashboard-VUE](https://github.com/Fernando-Medeiros/D-BOARD-Vue) | [Ecommerce-ASPNET](https://github.com/Fernando-Medeiros/ECommerce-ASP-NET-API)      | [The-Hero-Journey-PYGAME](https://github.com/Fernando-Medeiros/The-Hero-Journey) | [Red-Boar-Inn-VUE](https://github.com/Fernando-Medeiros/red-boar-inn-game) |
 |                                                                   | [RBI-Server-NODEJS](https://github.com/Fernando-Medeiros/RBI-Server-Node-API)       | [Pleiades-PYGAME](https://github.com/Fernando-Medeiros/Pleiades)                 |
 |                                                                   | [RBI-Auth-NODEJS](https://github.com/Fernando-Medeiros/RBI-Auth-Node-API)           |
-|                                                                   | [Dashboard-Auth-NESTJS](https://github.com/Fernando-Medeiros/D-BOARD-Auth-Nest-API) |
+|                                                                   | [Dashboard-Auth-NESTJS](https://github.com/Fernando-Medeiros/D-BOARD-Auth-Nest-API) |||
+||[Restaurant-menu-NESTJS](https://github.com/Fernando-Medeiros/restaurant-menu-Nest-API) ||
 
 
 ![ts](https://skillicons.dev/icons?i=cs)
