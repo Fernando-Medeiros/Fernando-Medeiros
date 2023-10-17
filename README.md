@@ -15,22 +15,14 @@
 
 ![ts](https://skillicons.dev/icons?i=cs)
 ![ts](https://skillicons.dev/icons?i=typescript)
-![ts](https://skillicons.dev/icons?i=php)
+![ts](https://skillicons.dev/icons?i=javascript)
 ![ts](https://skillicons.dev/icons?i=python)
 .
 ![ts](https://skillicons.dev/icons?i=net)
 ![ts](https://skillicons.dev/icons?i=nodejs)
 ![ts](https://skillicons.dev/icons?i=nestjs)
-![ts](https://skillicons.dev/icons?i=laravel)
 .
 ![ts](https://skillicons.dev/icons?i=vue)
-![ts](https://skillicons.dev/icons?i=html)
-![ts](https://skillicons.dev/icons?i=css)
-
-![ts](https://skillicons.dev/icons?i=mysql)
-![ts](https://skillicons.dev/icons?i=postgres)
-![ts](https://skillicons.dev/icons?i=mongo)
-![ts](https://skillicons.dev/icons?i=redis)
 .
 ![ts](https://skillicons.dev/icons?i=git)
 ![ts](https://skillicons.dev/icons?i=linux)
