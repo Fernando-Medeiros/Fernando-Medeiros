@@ -1,6 +1,3 @@
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&logoColor=green)](https://wa.me/5521965858952?text=linkGithub)
-[![Replit](https://img.shields.io/badge/replit-white?style=for-the-badge&logo=replit&logoColor=orange)](https://replit.com/@FernandoMedeir8)
-
 ![ts](https://skillicons.dev/icons?i=cs)
 ![ts](https://skillicons.dev/icons?i=typescript)
 ![ts](https://skillicons.dev/icons?i=javascript)
