@@ -1,15 +1,1 @@
-![ts](https://skillicons.dev/icons?i=cs)
-![ts](https://skillicons.dev/icons?i=typescript)
-![ts](https://skillicons.dev/icons?i=javascript)
-![ts](https://skillicons.dev/icons?i=python)
-.
-![ts](https://skillicons.dev/icons?i=net)
-![ts](https://skillicons.dev/icons?i=nodejs)
-![ts](https://skillicons.dev/icons?i=nestjs)
-.
-![ts](https://skillicons.dev/icons?i=vue)
-.
-![ts](https://skillicons.dev/icons?i=git)
-![ts](https://skillicons.dev/icons?i=linux)
-![ts](https://skillicons.dev/icons?i=docker)
-![ts](https://skillicons.dev/icons?i=azure)
+
